@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077492911723",
+    "firebase_url": "https://flash-chat-102ce.firebaseio.com",
+    "project_id": "flash-chat-102ce",
+    "storage_bucket": "flash-chat-102ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077492911723:android:bb5722fb53f3162b",
+        "android_client_info": {
+          "package_name": "co.Taka.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077492911723-24tl7cnqbpoqvmdge4dg29nmnmttcp9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxwVNUjh2gfKmAgrmD9dOJDk6olbLQps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077492911723-24tl7cnqbpoqvmdge4dg29nmnmttcp9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
